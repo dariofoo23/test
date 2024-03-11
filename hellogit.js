@@ -1,5 +1,7 @@
 console.log ("Hola Git");
-console.log("no me funciona el código");
+console.log("Estoy editando el fichero 1");
 
-console.log("ya me llegó la flaca");
+console.log("Nueva función añadida");
+
+
 
